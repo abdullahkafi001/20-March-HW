@@ -1,0 +1,44 @@
+h3{
+	background-color:yellow;
+}
+a{
+
+  color: hotpink;
+}
+p {
+  color: red;
+  text-align: center;
+}
+
+
+table, th, td {
+  border: 1px solid;
+}
+table {
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}
+td {
+  text-align: center;
+}
+th {
+  text-align: left;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+<div style="overflow-x:auto;">
+
+<table>
+... table content ...
+</table>
+
+</div>
+
+img {
+  background-image: url("paper.gif");
+}
